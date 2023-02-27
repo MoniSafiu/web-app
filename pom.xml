@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.27.56:8081/repository/rbc-release/</url>
+	      <name>admin Releases Nexus Repository</name>
+	      <url>http://54.221.20.37:8081/repository/Smaat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.27.56:8081/repository/rbc-snapshot/</url>
+	      <name>admin Snapshot Nexus Repository </name>
+	      <url>http://54.221.20.37:8081/repository/Smaat-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
